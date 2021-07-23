@@ -1,0 +1,22 @@
+body {
+  background-color: #e9ecef;
+}
+
+ul li {
+  width: fit-content
+}
+
+h2 {
+  color: #a044a0
+}
+
+h3 {
+  color: goldenrod;
+}
+.card {
+  background-color: #e9ecef;
+}
+
+#products .card {
+  background: white ;
+}
